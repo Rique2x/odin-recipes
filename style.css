@@ -42,3 +42,9 @@ a{
      line-height: 150px;
      
  }
+
+.made-by{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 600;
+}
