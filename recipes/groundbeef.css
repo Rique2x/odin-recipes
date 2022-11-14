@@ -1,0 +1,26 @@
+body{
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: rgb(86, 89, 235);
+}
+
+h1{
+    font-size: 70px;
+    font-family: OCR A Std, monospace;
+    
+}
+
+img{
+    width: 600px;
+    border: 10px solid rgb(255, 253, 253);
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 900px;
+    font-family: Helvetica,sans-serif
+}
+
+p, li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
